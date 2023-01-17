@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "HRManagement.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/HRManagement.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HRManagement.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "HRManagement.Domain/1.0.0": {
+      "type": "project",
+      "path": "../HRManagement.Domain/HRManagement.Domain.csproj",
+      "msbuildProject": "../HRManagement.Domain/HRManagement.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "HRManagement.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\pedro\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\pedro\\Documents\\cSharp\\udemy\\HRManagement\\HRMnagement\\HRManagement.Domain\\HRManagement.Domain.csproj": {
+              "projectPath": "C:\\Users\\pedro\\Documents\\cSharp\\udemy\\HRManagement\\HRMnagement\\HRManagement.Domain\\HRManagement.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
