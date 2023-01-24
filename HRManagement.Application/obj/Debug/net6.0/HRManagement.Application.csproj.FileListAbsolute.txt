@@ -1,0 +1,15 @@
+C:\Users\pedro\Documents\cSharp\udemy\HRManagement\HRMnagement\HRManagement.Application\obj\Debug\net6.0\HRManagement.Application.csproj.AssemblyReference.cache
+C:\Users\pedro\Documents\cSharp\udemy\HRManagement\HRMnagement\HRManagement.Application\obj\Debug\net6.0\HRManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Documents\cSharp\udemy\HRManagement\HRMnagement\HRManagement.Application\obj\Debug\net6.0\HRManagement.Application.AssemblyInfoInputs.cache
+C:\Users\pedro\Documents\cSharp\udemy\HRManagement\HRMnagement\HRManagement.Application\obj\Debug\net6.0\HRManagement.Application.AssemblyInfo.cs
+C:\Users\pedro\Documents\cSharp\udemy\HRManagement\HRMnagement\HRManagement.Application\obj\Debug\net6.0\HRManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\cSharp\udemy\HRManagement\HRMnagement\HRManagement.Application\bin\Debug\net6.0\HRManagement.Application.deps.json
+C:\Users\pedro\Documents\cSharp\udemy\HRManagement\HRMnagement\HRManagement.Application\bin\Debug\net6.0\HRManagement.Application.dll
+C:\Users\pedro\Documents\cSharp\udemy\HRManagement\HRMnagement\HRManagement.Application\bin\Debug\net6.0\HRManagement.Application.pdb
+C:\Users\pedro\Documents\cSharp\udemy\HRManagement\HRMnagement\HRManagement.Application\bin\Debug\net6.0\HRManagement.Domain.dll
+C:\Users\pedro\Documents\cSharp\udemy\HRManagement\HRMnagement\HRManagement.Application\bin\Debug\net6.0\HRManagement.Domain.pdb
+C:\Users\pedro\Documents\cSharp\udemy\HRManagement\HRMnagement\HRManagement.Application\obj\Debug\net6.0\HRManagement.Application.csproj.CopyComplete
+C:\Users\pedro\Documents\cSharp\udemy\HRManagement\HRMnagement\HRManagement.Application\obj\Debug\net6.0\HRManagement.Application.dll
+C:\Users\pedro\Documents\cSharp\udemy\HRManagement\HRMnagement\HRManagement.Application\obj\Debug\net6.0\refint\HRManagement.Application.dll
+C:\Users\pedro\Documents\cSharp\udemy\HRManagement\HRMnagement\HRManagement.Application\obj\Debug\net6.0\HRManagement.Application.pdb
+C:\Users\pedro\Documents\cSharp\udemy\HRManagement\HRMnagement\HRManagement.Application\obj\Debug\net6.0\ref\HRManagement.Application.dll

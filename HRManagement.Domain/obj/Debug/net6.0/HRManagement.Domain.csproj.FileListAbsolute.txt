@@ -1,0 +1,12 @@
+C:\Users\pedro\Documents\cSharp\udemy\HRManagement\HRMnagement\HRManagement.Domain\bin\Debug\net6.0\HRManagement.Domain.deps.json
+C:\Users\pedro\Documents\cSharp\udemy\HRManagement\HRMnagement\HRManagement.Domain\bin\Debug\net6.0\HRManagement.Domain.dll
+C:\Users\pedro\Documents\cSharp\udemy\HRManagement\HRMnagement\HRManagement.Domain\bin\Debug\net6.0\HRManagement.Domain.pdb
+C:\Users\pedro\Documents\cSharp\udemy\HRManagement\HRMnagement\HRManagement.Domain\obj\Debug\net6.0\HRManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\pedro\Documents\cSharp\udemy\HRManagement\HRMnagement\HRManagement.Domain\obj\Debug\net6.0\HRManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Documents\cSharp\udemy\HRManagement\HRMnagement\HRManagement.Domain\obj\Debug\net6.0\HRManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\pedro\Documents\cSharp\udemy\HRManagement\HRMnagement\HRManagement.Domain\obj\Debug\net6.0\HRManagement.Domain.AssemblyInfo.cs
+C:\Users\pedro\Documents\cSharp\udemy\HRManagement\HRMnagement\HRManagement.Domain\obj\Debug\net6.0\HRManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\cSharp\udemy\HRManagement\HRMnagement\HRManagement.Domain\obj\Debug\net6.0\HRManagement.Domain.dll
+C:\Users\pedro\Documents\cSharp\udemy\HRManagement\HRMnagement\HRManagement.Domain\obj\Debug\net6.0\refint\HRManagement.Domain.dll
+C:\Users\pedro\Documents\cSharp\udemy\HRManagement\HRMnagement\HRManagement.Domain\obj\Debug\net6.0\HRManagement.Domain.pdb
+C:\Users\pedro\Documents\cSharp\udemy\HRManagement\HRMnagement\HRManagement.Domain\obj\Debug\net6.0\ref\HRManagement.Domain.dll
